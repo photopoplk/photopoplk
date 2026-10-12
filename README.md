@@ -74,28 +74,6 @@ PhotoPop creates instant photo experiences for **weddings, birthdays and corpora
 ---
 
 <details>
-<summary><b>💗 Packages (tap to open)</b></summary>
-
-<br/>
-
-Every package is tailored to your event and includes a styled backdrop, props, a custom print frame design and instant digital sharing. Tell us your date, event type and location and we will send the right option.
-
-[**Request a quote →**](https://wa.me/[WhatsApp number]?text=Hi%20PhotoPop%2C%20please%20send%20packages)
-
-</details>
-
-<details>
-<summary><b>🎨 Pick your vibe</b></summary>
-
-<br/>
-
-| 🌸 Blush | 🪩 Silver | 💐 Floral | ⬜ Minimal |
-| :---: | :---: | :---: | :---: |
-| Soft and romantic | Glam and sparkly | Fresh and elegant | Clean and modern |
-
-</details>
-
-<details>
 <summary><b>📍 Where we work</b></summary>
 
 <br/>
@@ -113,17 +91,6 @@ Events across Sri Lanka. Message us your location and we will check.
 - **Do guests get digital copies?** Yes, instantly.
 - **Can we add our names or logo?** Yes, every frame is custom designed.
 - **How far ahead should we book?** As early as you can, as dates fill up.
-
-</details>
-
-<details>
-<summary><b>🖤 Our look</b></summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-F86EA0-F86EA0?style=flat-square"/> <img src="https://img.shields.io/badge/-D9D9DE-D9D9DE?style=flat-square"/> <img src="https://img.shields.io/badge/-FAF8F9-FAF8F9?style=flat-square"/> <img src="https://img.shields.io/badge/-202020-202020?style=flat-square"/>
-
-Pink, silver and white, with a little film grain.
 
 </details>
 
