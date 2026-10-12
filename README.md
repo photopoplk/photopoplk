@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F86EA0&height=210&section=header&text=photopop&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Photo%20booth%20experiences%20for%20weddings%20%26%20events&descSize=18&descAlignY=62" alt="PhotoPop banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=F86EA0&center=true&vCenter=true&width=600&lines=Smile.+Pop.+Repeat.+💗;Weddings+·+Birthdays+·+Corporate;Photo+Booth+Experiences+in+Sri+Lanka;Custom+Frames+·+Instant+Prints+·+Digital+Sharing" alt="Typing animation"/>
+<img src="banner.svg" alt="PhotoPop: photo booth experiences in Sri Lanka" width="100%"/>
 
 <br/><br/>
 
@@ -23,7 +21,7 @@
   <img src="https://img.shields.io/badge/TikTok-PhotoPop-D9D9DE?style=for-the-badge&logo=tiktok&logoColor=202020"/>
 </a>
 
-<br/><br/>
+<br/>
 
 📸 ━━━━━━━━━━ 💗 ━━━━━━━━━━ 📸
 
@@ -134,7 +132,5 @@ Pink, silver and white, with a little film grain.
 <div align="center">
 
 **Your moments. Our booth. One pop. 💗**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F86EA0&height=100&section=footer" alt="footer"/>
 
 </div>
